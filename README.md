@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieljackiewicz
 - 👀 I’m interested in travel, motorbikes and cooking. 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript in InfoShare Academy
 - 💞️ I’m looking to collaborate on Junior Frontend Developer
 - 📫 You can reach me here: https://www.linkedin.com/in/daniel-jackiewicz/
 
