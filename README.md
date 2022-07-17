@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieljackiewicz
 - 👀 I’m interested in travel :compass:, motorbikes :motorcycle: and cooking :man_cook:. 
-- 🌱 I’m currently learning JavaScript, TypeScript and React on Junior Front End Developer course in InfoShare Academy
+- 🌱 I have recently completed a 6 month Junior Front End Developer course at the InfoShare Academy where I learnt JavaScript, React and deepend my knowledge of hTML and CSS.
 - 💞️ I’m looking to collaborate on Junior Frontend Developer
 - 📫 You can reach me here: https://www.linkedin.com/in/daniel-jackiewicz/
 
