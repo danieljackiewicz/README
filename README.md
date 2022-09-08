@@ -7,6 +7,8 @@
   - Project for workshops to manage clients cars repairs [healmycar.netlify.com](https://healmycar.netlify.app/)
   - Simple wheather switch for flight/drive simulators [ftd.netlify.app](https://ftd.netlify.app/)
   - [Sticky notes](https://memo-sticky-notes.netlify.app/)
+  - CRUD Angular APP
+  - Login page in Angular with fake jsonplaceholder API [Login Page](y-login-angular.netlify.app/)
 
 <!---
 danieljackiewicz/danieljackiewicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
